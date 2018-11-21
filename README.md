@@ -1,1 +1,2 @@
-这是一个storm的联系项目，主要实现的功能是使用HTTP长连接的方式结合storm，hbase来实时显示城市销售额，以及topN
+这是一个storm的联系项目，主要实现的功能是使用HTTP长连接的方式结合storm，hbase来实时显示城市销售额，以及topN;
+该项目是展示的web项目，用来展示数据的，配合数据处理的storm-project-01-storm和storm-project-02-storm作为数据处理来使用
